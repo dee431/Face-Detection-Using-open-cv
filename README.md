@@ -1,4 +1,7 @@
 Face Detection using OpenCV
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/2fbb5ec4-5d29-4133-86f5-6aea09726743" />
+
+<img width="970" height="251" alt="image" src="https://github.com/user-attachments/assets/fbd0c535-33fb-4926-865f-ea234e9d32cb" />
 
 A Python-based Face Detection project built using OpenCV and Haar Cascade classifiers.
 This project demonstrates how to detect human faces in images using classical computer vision techniques.
